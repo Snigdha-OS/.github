@@ -1,4 +1,5 @@
 <div align="center"><h1>Hi there 👋</h1></div>
+<div align="center">![Snigdha OS](https://github.com/user-attachments/assets/be469594-e128-4789-97aa-412226c7b9f2)</div>
 
 <!--
 
