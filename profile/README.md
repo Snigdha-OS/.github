@@ -1,12 +1,10 @@
 <h1 align="center">SNIGDHA OS</h1>
-
 <div aligna="center">
   
 <p align="center">
   <img height = 300px align="center" src="https://github.com/user-attachments/assets/be469594-e128-4789-97aa-412226c7b9f2">
 </p>
-
-
+  
 An Arch-based Linux distribution focused on performance, simplicity, and user empowerment.
 
 [![License](https://img.shields.io/badge/License-GPL--3.0-blue.svg)](LICENSE)
