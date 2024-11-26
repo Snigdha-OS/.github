@@ -1,13 +1,10 @@
 <h1 align="center">SNIGDHA OS</h1>
-<p align="center">
-  <img align="center" src="https://github.com/user-attachments/assets/be469594-e128-4789-97aa-412226c7b9f2">
-</p>
-<!-- #SnigdhaOS -->
-
 <div aligna="center">
   
-<!-- ![SnigdhaOS](https://raw.githubusercontent.com/snigdhaos/branding/main/logo.png) -->
-
+<p align="center">
+  <img height = 300px align="center" src="https://github.com/user-attachments/assets/be469594-e128-4789-97aa-412226c7b9f2">
+</p>
+  
 An Arch-based Linux distribution focused on performance, simplicity, and user empowerment.
 
 [![License](https://img.shields.io/badge/License-GPL--3.0-blue.svg)](LICENSE)
@@ -30,10 +27,10 @@ Visit our [installation guide](https://snigdhaos.org/docs/installation) for deta
 
 ## 📚 Documentation
 
-- [Getting Started](https://snigdhaos.org/docs/getting-started)
-- [Configuration Guide](https://snigdhaos.org/docs/configuration)
-- [Package Management](https://snigdhaos.org/docs/packages)
-- [Troubleshooting](https://snigdhaos.org/docs/troubleshooting)
+- [Getting Started](https://snigdha-os.github.io/documentation/category/introduction.)
+- [Configuration Guide](https://snigdha-os.github.io/documentation/category/installation)
+- [Package Management](https://snigdha-os.github.io/documentation/category/packages)
+- [Troubleshooting](https://snigdha-os.github.io/documentation/category/troubleshoot)
 
 ## 🤝 Contributing
 
@@ -92,7 +89,7 @@ Found a security issue? Please report it to security@snigdhaos.org.
   
 Made with ❤️ by the SnigdhaOS Team
 
-[Website](https://snigdhaos.org) • [GitHub](https://github.com/snigdhaos) • [Documentation](https://docs.snigdhaos.org)
+[Website](https://snigdhaos.org) • [GitHub](https://github.com/snigdhaos) • [Documentation](https://snigdha-os.github.io/documentation)
 
 </div>
 
