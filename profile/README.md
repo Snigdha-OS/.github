@@ -7,8 +7,8 @@
   
 An Arch-based Linux distribution focused on performance, simplicity, and user empowerment.
 
-[![License](https://img.shields.io/badge/License-GPL--3.0-blue.svg)](LICENSE)
-[![Arch Linux](https://img.shields.io/badge/Based%20on-Arch%20Linux-1793D1.svg)](https://archlinux.org/)
+![GitHub License](https://img.shields.io/github/license/Snigdha-OS/snigdhaos-arctic)
+[![Archlinux](https://img.shields.io/badge/Based%20on-Archlinux-1793D1.svg)](https://archlinux.org/)
 
 </div>
 
@@ -23,7 +23,7 @@ An Arch-based Linux distribution focused on performance, simplicity, and user em
 
 ## 🛠️ Installation
 
-Visit our [installation guide](https://snigdhaos.org/docs/installation) for detailed instructions.
+Visit **Snigdha OS** [installation guide](https://snigdha-os.github.io/documentation/category/installation) for detailed instructions.
 
 ## 📚 Documentation
 
@@ -43,23 +43,26 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 5. Open a Pull Request
 
 ## 🔧 Development
-
+Develop **Snigdha OS | Arctic V** Core*
 ```bash
 # Clone the repository
-git clone https://github.com/snigdhaos/snigdhaos
+git clone https://github.com/Snigdha-OS/snigdhaos-arctic
 
-# Build ISO
-make iso
+# Change Directory
+cd snigdhaos-arctic/scripts
 
-# Test in VM
-make test
+# Set Permission to 100755
+chmod +x ./01-online-build.sh
+
+# Execute Building Developer ISO
+./01-online-build.sh
 ```
 
 ## 📦 Core Packages
 
-- Base System: Arch Linux
+- Base System: Snigdha OS
 - Display Server: X11/Wayland
-- Package Manager: pacman
+- Package Manager: pacman & pacmac
 - AUR Helper: yay/paru
 
 ## 🌟 Community
@@ -67,7 +70,7 @@ make test
 - [Discord](https://discord.gg/snigdhaos)
 - [Forum](https://forum.snigdhaos.org)
 - [Matrix](https://matrix.to/#/#snigdhaos:matrix.org)
-- [Reddit](https://reddit.com/r/snigdhaos)
+- [Reddit](https://reddit.com/u/SnigdhaOS)
 
 ## 📝 License
 
@@ -75,9 +78,9 @@ This project is licensed under the GPL-3.0 License - see the [LICENSE](LICENSE) 
 
 ## 🙏 Acknowledgments
 
-- Arch Linux Team
+- Snigdha OS Team
 - All our contributors
-- Open source community
+- Open source community (OSS)
 
 ## 🔐 Security
 
@@ -87,9 +90,9 @@ Found a security issue? Please report it to security@snigdhaos.org.
 
 <div align="center">
   
-Made with ❤️ by the SnigdhaOS Team
+Made with ❤️ by the Snigdha OS Team
 
-[Website](https://snigdhaos.org) • [GitHub](https://github.com/snigdhaos) • [Documentation](https://snigdha-os.github.io/documentation)
+[Website](https://snigdhaos.org) • [GitHub](https://github.com/Snigdha-OS) • [Documentation](https://snigdha-os.github.io/documentation)
 
 </div>
 
