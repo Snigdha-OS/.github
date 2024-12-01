@@ -22,10 +22,11 @@
 >N.B: **SNIGDHA OS | ARCTIC V** is currently on testing mode. We expect to releade the **Arctic V** iso on 31st December, 2024.
 
 ---
-
+<div align="center">
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=148610067" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=148610067&image_size=auto&color_scheme=dark" width="771" height="auto">
     <img alt="Dashboard stats of @eshanized" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=148610067&image_size=auto&color_scheme=light" width="771" height="auto">
   </picture>
 </a>
+</div>
