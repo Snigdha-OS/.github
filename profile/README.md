@@ -21,7 +21,7 @@
 
 >N.B: **SNIGDHA OS | ARCTIC V** is currently on testing mode. We expect to releade the **Arctic V** iso on 31st December, 2024.
 
----
+
 <div align="center">
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=148610067" target="_blank" style="display: block" align="center">
   <picture>
@@ -29,7 +29,6 @@
     <img alt="Dashboard stats of @eshanized" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=148610067&image_size=auto&color_scheme=light" width="771" height="auto">
   </picture>
 </a>
-<!-- Copy-paste in your Readme.md file -->
 
 <a href="https://next.ossinsight.io/widgets/official/compose-org-code-changes-top-repositories?owner_id=160814431&period=past_12_months" target="_blank" style="display: block" align="center">
   <picture>
