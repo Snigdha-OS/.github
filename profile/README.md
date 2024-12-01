@@ -32,8 +32,8 @@
 
 <a href="https://next.ossinsight.io/widgets/official/compose-org-code-changes-top-repositories?owner_id=160814431&period=past_12_months" target="_blank" style="display: block" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-code-changes-top-repositories/thumbnail.png?owner_id=160814431&period=past_12_months&image_size=3x6&color_scheme=dark" width="561" height="auto">
-    <img alt="Ranking of repos with the commit code changes in Snigdha-OS" src="https://next.ossinsight.io/widgets/official/compose-org-code-changes-top-repositories/thumbnail.png?owner_id=160814431&period=past_12_months&image_size=3x6&color_scheme=light" width="561" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-code-changes-top-repositories/thumbnail.png?owner_id=160814431&period=past_12_months&image_size=3x6&color_scheme=dark" width="861" height="auto">
+    <img alt="Ranking of repos with the commit code changes in Snigdha-OS" src="https://next.ossinsight.io/widgets/official/compose-org-code-changes-top-repositories/thumbnail.png?owner_id=160814431&period=past_12_months&image_size=3x6&color_scheme=light" width="861" height="auto">
   </picture>
 </a>
 </div>
