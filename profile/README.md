@@ -20,3 +20,14 @@
 </div>
 
 >N.B: **SNIGDHA OS | ARCTIC V** is currently on testing mode. We expect to releade the **Arctic V** iso on 31st December, 2024.
+
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-org-engagement-scatter?owner_id=11855343&period=past_28_days" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-engagement-scatter/thumbnail.png?owner_id=11855343&period=past_28_days&image_size=5x5&color_scheme=dark" width="465" height="auto">
+    <img alt="Most engaged people of pingcap" src="https://next.ossinsight.io/widgets/official/compose-org-engagement-scatter/thumbnail.png?owner_id=11855343&period=past_28_days&image_size=5x5&color_scheme=light" width="465" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
