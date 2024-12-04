@@ -1,7 +1,7 @@
 <!-- <div align="center"> -->
   
 <p align="center">
-  <img align="center" src="https://github.com/user-attachments/assets/6dade70b-5dc3-42dd-ae2d-2f53740d11d9">
+  <img align="center" src="https://github.com/user-attachments/assets/01e5b94f-354d-4e9c-a894-af222d0b24cf">
 </p>
 <div align="center">
 <img alt="Static Badge" src="https://img.shields.io/badge/snigdha_os-based_on_archlinux-754ffe?style=for-the-badge&logo=archlinux&logoColor=92fe9d">
