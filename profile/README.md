@@ -22,18 +22,18 @@
 >N.B: **SNIGDHA OS | ARCTIC V** is currently on testing mode. We expect to releade the **Arctic V** iso on 31st December, 2024.
 
 
-<div align="left">
+<div align="center">
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=148610067" target="_blank" style="display: block" align="left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=148610067&image_size=auto&color_scheme=dark" width="300" height="150">
-    <img alt="Dashboard stats of @eshanized" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=148610067&image_size=auto&color_scheme=light" width="300" height="150">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=148610067&image_size=auto&color_scheme=dark" width="350" height="200">
+    <img alt="Dashboard stats of @eshanized" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=148610067&image_size=auto&color_scheme=light" width="350" height="200">
   </picture>
 </a>
 
 <a href="https://next.ossinsight.io/widgets/official/compose-org-code-changes-top-repositories?owner_id=160814431&period=past_12_months" target="_blank" style="display: block" align="right">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-code-changes-top-repositories/thumbnail.png?owner_id=160814431&period=past_12_months&image_size=3x6&color_scheme=dark" width="300" height="150">
-    <img alt="Ranking of repos with the commit code changes in Snigdha-OS" src="https://next.ossinsight.io/widgets/official/compose-org-code-changes-top-repositories/thumbnail.png?owner_id=160814431&period=past_12_months&image_size=3x6&color_scheme=light" width="300" height="150">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-code-changes-top-repositories/thumbnail.png?owner_id=160814431&period=past_12_months&image_size=3x6&color_scheme=dark" width="350" height="200">
+    <img alt="Ranking of repos with the commit code changes in Snigdha-OS" src="https://next.ossinsight.io/widgets/official/compose-org-code-changes-top-repositories/thumbnail.png?owner_id=160814431&period=past_12_months&image_size=3x6&color_scheme=light" width="350" height="200">
   </picture>
 </a>
 </div>
