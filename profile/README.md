@@ -11,7 +11,7 @@
 </div>
 
 <h1 align="center" style="font-family: 'Droid Sans', sans-serif; color: #4e54c8;">🌟 Why Choose Snigdha OS? 🌟</h1>
-<div align="center" style="font-family: 'Droid Sans', sans-serif; max-width: 800px; margin: auto;">
+<div align="left" style="font-family: 'Droid Sans', sans-serif; max-width: 800px; margin: auto;">
   <ul style="text-align: left; line-height: 1.8; font-size: 1.1rem;">
     <li>🛠️ <strong>Tailored Toolset:</strong> Snigdha OS comes preloaded with essential penetration testing tools for network scanning, vulnerability assessment, and exploitation. More tools can be added during installation or afterward.</li>
     <li>🔒 <strong>Security Focus:</strong> Built with security in mind, it includes features like SELinux or AppArmor, strict firewall rules, and minimal active services to reduce attack surfaces.</li>
@@ -22,7 +22,7 @@
   </ul>
 </div>
 
-<p align="center" style="font-family: 'Droid Sans', sans-serif; font-style: italic; color: #555;">📝 <strong>Note:</strong> The upcoming Snigdha OS | Arctic V version is currently in testing mode and is expected to be officially released on 31st December 2024. Stay tuned! 🚀</p>
+<p align="left" style="font-family: 'Droid Sans', sans-serif; font-style: italic; color: #555;">📝 <strong>Note:</strong> The upcoming Snigdha OS | Arctic V version is currently in testing mode and is expected to be officially released on 31st December 2024. Stay tuned! 🚀</p>
 
 <!-- Developer Section -->
 <h2 align="center" style="font-family: 'Droid Sans', sans-serif; color: #4e54c8;">💻 Meet the Developers 💻</h2>
