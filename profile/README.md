@@ -1,43 +1,66 @@
-<!-- <div align="center"> -->
-  
+<!-- Header Section -->
 <p align="center">
   <img align="center" src="https://github.com/user-attachments/assets/01e5b94f-354d-4e9c-a894-af222d0b24cf">
 </p>
 <div align="center">
-<img alt="Static Badge" src="https://img.shields.io/badge/snigdha_os-based_on_archlinux-754ffe?style=for-the-badge&logo=archlinux&logoColor=92fe9d">
-<img alt="Static Badge" src="https://img.shields.io/badge/%40snigdhaos.org-on_bluesky-754ffe?style=for-the-badge&logo=bluesky&logoColor=92fe9d">
-<img alt="Static Badge" src="https://img.shields.io/badge/license-mit-754ffe?style=for-the-badge&logo=book&logoColor=92fe9d">
-<img alt="Static Badge" src="https://img.shields.io/badge/sponsored_by-tonmoy_infrastructure--%241000-%23754ffe?style=for-the-badge&logo=google%20pay&labelColor=%2328282b&color=%23754ffe">
-<img alt="Static Badge" src="https://img.shields.io/badge/sponsored_by-ixh_international_co.--%24962-%23754ffe?style=for-the-badge&logo=payoneer&labelColor=%2328282b&color=%23754ffe">
+  <img alt="Static Badge" src="https://img.shields.io/badge/snigdha_os-based_on_archlinux-754ffe?style=for-the-badge&logo=archlinux&logoColor=92fe9d">
+  <img alt="Static Badge" src="https://img.shields.io/badge/%40snigdhaos.org-on_bluesky-754ffe?style=for-the-badge&logo=bluesky&logoColor=92fe9d">
+  <img alt="Static Badge" src="https://img.shields.io/badge/license-mit-754ffe?style=for-the-badge&logo=book&logoColor=92fe9d">
+  <img alt="Static Badge" src="https://img.shields.io/badge/sponsored_by-tonmoy_infrastructure--%241000-%23754ffe?style=for-the-badge&logo=google%20pay&labelColor=%2328282b&color=%23754ffe">
+  <img alt="Static Badge" src="https://img.shields.io/badge/sponsored_by-ixh_international_co.--%24962-%23754ffe?style=for-the-badge&logo=payoneer&labelColor=%2328282b&color=%23754ffe">
 </div>
 
-
-
-<h1 align="center">🌟 Why Choose Snigdha OS? 🌟</h1>
-<div align="left">
-1. 🛠️ Tailored Toolset: Snigdha OS comes preloaded with essential penetration testing tools for network scanning, vulnerability assessment, and exploitation. More tools can be added during installation or afterward.</br>
-2. 🔒 Security Focus: Built with security in mind, it includes features like SELinux or AppArmor, strict firewall rules, and minimal active services to reduce attack surfaces.</br>
-3. ⚙️ Customization & Optimization: The OS allows deep customization for performance optimization, ensuring efficient use of system resources, which is vital for penetration testers.</br>
-4. 🎓 Educational Tool: Snigdha OS is useful for cybersecurity learning, providing hands-on experience with various tools and techniques.</br>
-5. 💻 Portability: It works across different hardware platforms, from physical machines to virtual machines and cloud instances, making it adaptable to various testing environments.</br>
-6. 🌍 Open-source Collaboration: As an open-source project, Snigdha OS is community-driven, promoting transparency, collaboration, and continuous development.</br>
+<h1 align="center" style="font-family: 'Droid Sans', sans-serif; color: #4e54c8;">🌟 Why Choose Snigdha OS? 🌟</h1>
+<div align="center" style="font-family: 'Droid Sans', sans-serif; max-width: 800px; margin: auto;">
+  <ul style="text-align: left; line-height: 1.8; font-size: 1.1rem;">
+    <li>🛠️ <strong>Tailored Toolset:</strong> Snigdha OS comes preloaded with essential penetration testing tools for network scanning, vulnerability assessment, and exploitation. More tools can be added during installation or afterward.</li>
+    <li>🔒 <strong>Security Focus:</strong> Built with security in mind, it includes features like SELinux or AppArmor, strict firewall rules, and minimal active services to reduce attack surfaces.</li>
+    <li>⚙️ <strong>Customization & Optimization:</strong> The OS allows deep customization for performance optimization, ensuring efficient use of system resources, which is vital for penetration testers.</li>
+    <li>🎓 <strong>Educational Tool:</strong> Snigdha OS is useful for cybersecurity learning, providing hands-on experience with various tools and techniques.</li>
+    <li>💻 <strong>Portability:</strong> It works across different hardware platforms, from physical machines to virtual machines and cloud instances, making it adaptable to various testing environments.</li>
+    <li>🌍 <strong>Open-source Collaboration:</strong> As an open-source project, Snigdha OS is community-driven, promoting transparency, collaboration, and continuous development.</li>
+  </ul>
 </div>
 
->📝 **Note:** The upcoming Snigdha OS | Arctic V version is currently in testing mode and is expected to be officially released on 31st December 2024. Stay tuned! 🚀
+<p align="center" style="font-family: 'Droid Sans', sans-serif; font-style: italic; color: #555;">📝 <strong>Note:</strong> The upcoming Snigdha OS | Arctic V version is currently in testing mode and is expected to be officially released on 31st December 2024. Stay tuned! 🚀</p>
 
-
-<div align="center">
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=148610067" target="_blank" style="display: block" align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=148610067&image_size=auto&color_scheme=dark" width="350" height="200">
-    <img alt="Dashboard stats of @eshanized" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=148610067&image_size=auto&color_scheme=light" width="350" height="200">
-  </picture>
-</a>
-
-<a href="https://next.ossinsight.io/widgets/official/compose-org-code-changes-top-repositories?owner_id=160814431&period=past_12_months" target="_blank" style="display: block" align="right">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-code-changes-top-repositories/thumbnail.png?owner_id=160814431&period=past_12_months&image_size=3x6&color_scheme=dark" width="350" height="200">
-    <img alt="Ranking of repos with the commit code changes in Snigdha-OS" src="https://next.ossinsight.io/widgets/official/compose-org-code-changes-top-repositories/thumbnail.png?owner_id=160814431&period=past_12_months&image_size=3x6&color_scheme=light" width="350" height="200">
-  </picture>
-</a>
+<!-- Developer Section -->
+<h2 align="center" style="font-family: 'Droid Sans', sans-serif; color: #4e54c8;">💻 Meet the Developers 💻</h2>
+<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+  <!-- Developer 1 -->
+  <div style="font-family: 'Droid Sans', sans-serif; text-align: center; max-width: 250px; padding: 15px; border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); background-color: #f9f9f9;">
+    <img src="https://avatars.githubusercontent.com/u/148610067?v=4" alt="Developer Image" width="150" height="150" style="border-radius: 50%; margin: 10px;">
+    <h3><a href="https://github.com/eshanized" target="_blank" style="color: #4e54c8; text-decoration: none;">@eshanized</a></h3>
+    <p><strong>Lead Developer</strong></p>
+    <p>Passionate about open-source innovation and cybersecurity tools.</p>
+    <div style="margin-top: 10px;">
+      <a href="https://twitter.com/eshanized" target="_blank">
+        <img src="https://img.shields.io/badge/Follow_on_Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
+      </a>
+      <a href="https://linkedin.com/in/eshanized" target="_blank">
+        <img src="https://img.shields.io/badge/Connect_on_LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+      </a>
+      <a href="https://blueskyweb.xyz/@eshanized" target="_blank">
+        <img src="https://img.shields.io/badge/Bluesky_Profile-%230055A5?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky Badge">
+      </a>
+    </div>
+  </div>
+  <!-- Developer 2 -->
+  <div style="font-family: 'Droid Sans', sans-serif; text-align: center; max-width: 250px; padding: 15px; border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); background-color: #f9f9f9;">
+    <img src="https://via.placeholder.com/150" alt="Developer Image" width="150" height="150" style="border-radius: 50%; margin: 10px;">
+    <h3><a href="https://github.com/tonmoy-admin" target="_blank" style="color: #4e54c8; text-decoration: none;">@tonmoy_admin</a></h3>
+    <p><strong>Infrastructure Specialist</strong></p>
+    <p>Focused on high-availability solutions and backend scalability.</p>
+    <div style="margin-top: 10px;">
+      <a href="https://twitter.com/tonmoy_admin" target="_blank">
+        <img src="https://img.shields.io/badge/Follow_on_Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
+      </a>
+      <a href="https://linkedin.com/in/tonmoy-admin" target="_blank">
+        <img src="https://img.shields.io/badge/Connect_on_LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+      </a>
+      <a href="https://blueskyweb.xyz/@tonmoy-admin" target="_blank">
+        <img src="https://img.shields.io/badge/Bluesky_Profile-%230055A5?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky Badge">
+      </a>
+    </div>
+  </div>
 </div>
