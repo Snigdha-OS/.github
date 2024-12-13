@@ -30,7 +30,7 @@
   <!-- Developer 1 -->
   <div style="font-family: 'Droid Sans', sans-serif; text-align: center; padding: 15px; border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); background-color: #f9f9f9;">
     <img src="https://avatars.githubusercontent.com/u/148610067?v=4" alt="Developer Image" width="120" height="120" style="border-radius: 50%; margin: 10px;">
-    <h3><a href="https://github.com/eshanized" target="_blank" style="color: #4e54c8; text-decoration: none;">@eshanized</a></h3>
+    <h4><a href="https://github.com/eshanized" target="_blank" style="color: #4e54c8; text-decoration: none;">@eshanized</a></h4>
     <p><strong>Lead Developer</strong></p>
     <p>Passionate about open-source innovation and cybersecurity tools.</p>
     <div style="margin-top: 10px;">
@@ -40,8 +40,8 @@
   </div>
   <!-- Developer 2 -->
   <div style="font-family: 'Droid Sans', sans-serif; text-align: center; padding: 15px; border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); background-color: #f9f9f9;">
-    <img src="https://private-avatars.githubusercontent.com/u/112468319?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQwOTAwMDAsIm5iZiI6MTczNDA4ODgwMCwicGF0aCI6Ii91LzExMjQ2ODMxOSJ9.1jOpnfkni-FAuKwBKSAdNwq_PNzm0DM33KBKIdE07TM&v=4/150" alt="Developer Image" width="120" height="120" style="border-radius: 50%; margin: 10px;">
-    <h3><a href="https://github.com/alokified" target="_blank" style="color: #4e54c8; text-decoration: none;">@alokified</a></h3>
+    <img src="https://avatars.githubusercontent.com/u/112468319?v=4/150" alt="Developer Image" width="120" height="120" style="border-radius: 50%; margin: 10px;">
+    <h4><a href="https://github.com/alokified" target="_blank" style="color: #4e54c8; text-decoration: none;">@alokified</a></h4>
     <p><strong>Infrastructure Specialist</strong></p>
     <p>Focused on high-availability solutions and backend scalability.</p>
     <div style="margin-top: 10px;">
@@ -51,8 +51,8 @@
   </div>
   <!-- Developer 3 -->
   <div style="font-family: 'Droid Sans', sans-serif; text-align: center; padding: 15px; border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); background-color: #f9f9f9;">
-    <img src="https://private-avatars.githubusercontent.com/u/120082490?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQwODk1ODAsIm5iZiI6MTczNDA4ODM4MCwicGF0aCI6Ii91LzEyMDA4MjQ5MCJ9.-8LhE0QgugIFmqsT5WoMEYBZL2NXaXgDGHZFD4V0zR8&v=4/150" alt="Developer Image" width="120" height="120" style="border-radius: 50%; margin: 10px;">
-    <h3><a href="https://github.com/utkrshift" target="_blank" style="color: #4e54c8; text-decoration: none;">@utkrshift</a></h3>
+    <img src="https://avatars.githubusercontent.com/u/120082490?v=4/150" alt="Developer Image" width="120" height="120" style="border-radius: 50%; margin: 10px;">
+    <h4><a href="https://github.com/utkrshift" target="_blank" style="color: #4e54c8; text-decoration: none;">@utkrshift</a></h4>
     <p><strong>UI/UX Designer</strong></p>
     <p>Specializes in creating seamless and user-friendly interfaces.</p>
     <div style="margin-top: 10px;">
