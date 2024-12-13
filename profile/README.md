@@ -50,7 +50,7 @@
     <td align="center" style="padding: 20px; border: 1px solid #ddd;">
       <img src="https://avatars.githubusercontent.com/u/120082490?v=4" alt="Developer 3 Image" width="120" height="120" style="border-radius: 50%; margin-bottom: 10px;">
       <h4><a href="https://github.com/utkrshift" target="_blank" style="color: #4e54c8; text-decoration: none;">@utkrshift</a></h4>
-      <p><strong>UI/UX Designer</strong></p>
+      <strong>UI/UX Designer</strong>
       <p>Specializes in creating seamless and user-friendly interfaces.</p>
       <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
