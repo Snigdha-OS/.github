@@ -34,16 +34,16 @@
       <h4><a href="https://github.com/eshanized" target="_blank" style="color: #4e54c8; text-decoration: none;">@eshanized</a></h4>
       <strong>Lead Developer</strong>
       <p>Passionate about open-source innovation and cybersecurity tools.</p>
-      <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+      <img src="https://img.shields.io/badge/Twitter-%2328282b?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge">
+      <img src="https://img.shields.io/badge/LinkedIn-%2328282b?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
     </td>
     <td align="center" style="padding: 20px; border: 1px solid #ddd;">
       <img src="https://avatars.githubusercontent.com/u/112468319?v=4" alt="Developer 2 Image" width="120" height="120" style="border-radius: 50%; margin-bottom: 10px;">
       <h4><a href="https://github.com/alokified" target="_blank" style="color: #4e54c8; text-decoration: none;">@alokified</a></h4>
       <strong>Web Infrastructure</strong>
       <p>Focused on high-availability solutions and backend scalability.</p>
-      <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+      <img src="https://img.shields.io/badge/Twitter-%2328282b?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge">
+      <img src="https://img.shields.io/badge/LinkedIn-%2328282b?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
     </td>
   </tr>
   <tr>
@@ -52,16 +52,16 @@
       <h4><a href="https://github.com/utkrshift" target="_blank" style="color: #4e54c8; text-decoration: none;">@utkrshift</a></h4>
       <strong>DM/WM Developer</strong>
       <p>Specializes in creating seamless and user-friendly interfaces.</p>
-      <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+      <img src="https://img.shields.io/badge/Twitter-%2328282b?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge">
+      <img src="https://img.shields.io/badge/LinkedIn-%2328282b?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
     </td>
     <td align="center" style="padding: 20px; border: 1px solid #ddd;">
       <img src="https://avatars.githubusercontent.com/u/157954129?v=4/120" alt="Placeholder Developer Image" width="120" height="120" style="border-radius: 50%; margin-bottom: 10px;">
       <h4><a href="https://github.com/iconized" target="_blank" style="color: #4e54c8; text-decoration: none;">@developer4</a></h4>
       <strong>Co-Maintainer</strong>
       <p>Expert in automation and cloud infrastructure.</p>
-      <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+      <img src="https://img.shields.io/badge/Twitter-%2328282b?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge">
+      <img src="https://img.shields.io/badge/LinkedIn-%2328282b?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
     </td>
   </tr>
 </table>
