@@ -26,7 +26,8 @@
 
 <!-- Developer Section -->
 <h2 align="center" style="font-family: 'Droid Sans', sans-serif; color: #4e54c8;">💻 Meet the Developers 💻</h2>
-<div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 30px; max-width: 800px; margin: auto;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; justify-content: center; align-items: stretch; max-width: 800px; margin: auto;">
+
   <!-- Developer 1 -->
   <div style="font-family: 'Droid Sans', sans-serif; text-align: center; padding: 15px; border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); background-color: #f9f9f9;">
     <img src="https://avatars.githubusercontent.com/u/148610067?v=4" alt="Developer Image" width="120" height="120" style="border-radius: 50%; margin: 10px;">
@@ -38,9 +39,10 @@
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
     </div>
   </div>
+
   <!-- Developer 2 -->
   <div style="font-family: 'Droid Sans', sans-serif; text-align: center; padding: 15px; border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); background-color: #f9f9f9;">
-    <img src="https://avatars.githubusercontent.com/u/112468319?v=4/150" alt="Developer Image" width="120" height="120" style="border-radius: 50%; margin: 10px;">
+    <img src="https://avatars.githubusercontent.com/u/112468319?v=4" alt="Developer Image" width="120" height="120" style="border-radius: 50%; margin: 10px;">
     <h4><a href="https://github.com/alokified" target="_blank" style="color: #4e54c8; text-decoration: none;">@alokified</a></h4>
     <p><strong>Infrastructure Specialist</strong></p>
     <p>Focused on high-availability solutions and backend scalability.</p>
@@ -49,9 +51,10 @@
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
     </div>
   </div>
+
   <!-- Developer 3 -->
   <div style="font-family: 'Droid Sans', sans-serif; text-align: center; padding: 15px; border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); background-color: #f9f9f9;">
-    <img src="https://avatars.githubusercontent.com/u/120082490?v=4/150" alt="Developer Image" width="120" height="120" style="border-radius: 50%; margin: 10px;">
+    <img src="https://avatars.githubusercontent.com/u/120082490?v=4" alt="Developer Image" width="120" height="120" style="border-radius: 50%; margin: 10px;">
     <h4><a href="https://github.com/utkrshift" target="_blank" style="color: #4e54c8; text-decoration: none;">@utkrshift</a></h4>
     <p><strong>UI/UX Designer</strong></p>
     <p>Specializes in creating seamless and user-friendly interfaces.</p>
@@ -60,4 +63,5 @@
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
     </div>
   </div>
+
 </div>
