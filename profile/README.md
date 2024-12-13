@@ -7,7 +7,11 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/snigdha_os-based_on_archlinux-754ffe?style=for-the-badge&logo=archlinux&logoColor=92fe9d">
 <img alt="Static Badge" src="https://img.shields.io/badge/%40snigdhaos.org-on_bluesky-754ffe?style=for-the-badge&logo=bluesky&logoColor=92fe9d">
 <img alt="Static Badge" src="https://img.shields.io/badge/license-mit-754ffe?style=for-the-badge&logo=book&logoColor=92fe9d">
+<img alt="Static Badge" src="https://img.shields.io/badge/sponsored_by-tonmoy_infrastructure--%241000-%23754ffe?style=for-the-badge&logo=google%20pay&labelColor=%2328282b&color=%23754ffe">
+<img alt="Static Badge" src="https://img.shields.io/badge/sponsored_by-ixh_international_co.--%24962-%23754ffe?style=for-the-badge&logo=payoneer&labelColor=%2328282b&color=%23754ffe">
 </div>
+
+
 
 <h1 align="center">🌟 Why Choose Snigdha OS? 🌟</h1>
 <div align="left">
