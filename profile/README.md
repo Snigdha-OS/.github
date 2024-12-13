@@ -26,42 +26,42 @@
 
 <!-- Developer Section -->
 <h2 align="center" style="font-family: 'Droid Sans', sans-serif; color: #4e54c8;">💻 Meet the Developers 💻</h2>
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; justify-content: center; align-items: stretch; max-width: 800px; margin: auto;">
 
-  <!-- Developer 1 -->
-  <div style="font-family: 'Droid Sans', sans-serif; text-align: center; padding: 15px; border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); background-color: #f9f9f9;">
-    <img src="https://avatars.githubusercontent.com/u/148610067?v=4" alt="Developer Image" width="120" height="120" style="border-radius: 50%; margin: 10px;">
-    <h4><a href="https://github.com/eshanized" target="_blank" style="color: #4e54c8; text-decoration: none;">@eshanized</a></h4>
-    <p><strong>Lead Developer</strong></p>
-    <p>Passionate about open-source innovation and cybersecurity tools.</p>
-    <div style="margin-top: 10px;">
+<table align="center" style="font-family: 'Droid Sans', sans-serif; border-collapse: collapse; width: 80%; margin: auto; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+  <tr style="background-color: #f3f4f6;">
+    <td align="center" style="padding: 20px; border: 1px solid #ddd;">
+      <img src="https://avatars.githubusercontent.com/u/148610067?v=4" alt="Developer 1 Image" width="120" height="120" style="border-radius: 50%; margin-bottom: 10px;">
+      <h4><a href="https://github.com/eshanized" target="_blank" style="color: #4e54c8; text-decoration: none;">@eshanized</a></h4>
+      <p><strong>Lead Developer</strong></p>
+      <p>Passionate about open-source innovation and cybersecurity tools.</p>
       <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-    </div>
-  </div>
-
-  <!-- Developer 2 -->
-  <div style="font-family: 'Droid Sans', sans-serif; text-align: center; padding: 15px; border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); background-color: #f9f9f9;">
-    <img src="https://avatars.githubusercontent.com/u/112468319?v=4" alt="Developer Image" width="120" height="120" style="border-radius: 50%; margin: 10px;">
-    <h4><a href="https://github.com/alokified" target="_blank" style="color: #4e54c8; text-decoration: none;">@alokified</a></h4>
-    <p><strong>Infrastructure Specialist</strong></p>
-    <p>Focused on high-availability solutions and backend scalability.</p>
-    <div style="margin-top: 10px;">
+    </td>
+    <td align="center" style="padding: 20px; border: 1px solid #ddd;">
+      <img src="https://avatars.githubusercontent.com/u/112468319?v=4" alt="Developer 2 Image" width="120" height="120" style="border-radius: 50%; margin-bottom: 10px;">
+      <h4><a href="https://github.com/alokified" target="_blank" style="color: #4e54c8; text-decoration: none;">@alokified</a></h4>
+      <p><strong>Infrastructure Specialist</strong></p>
+      <p>Focused on high-availability solutions and backend scalability.</p>
       <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-    </div>
-  </div>
-
-  <!-- Developer 3 -->
-  <div style="font-family: 'Droid Sans', sans-serif; text-align: center; padding: 15px; border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); background-color: #f9f9f9;">
-    <img src="https://avatars.githubusercontent.com/u/120082490?v=4" alt="Developer Image" width="120" height="120" style="border-radius: 50%; margin: 10px;">
-    <h4><a href="https://github.com/utkrshift" target="_blank" style="color: #4e54c8; text-decoration: none;">@utkrshift</a></h4>
-    <p><strong>UI/UX Designer</strong></p>
-    <p>Specializes in creating seamless and user-friendly interfaces.</p>
-    <div style="margin-top: 10px;">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 20px; border: 1px solid #ddd;">
+      <img src="https://avatars.githubusercontent.com/u/120082490?v=4" alt="Developer 3 Image" width="120" height="120" style="border-radius: 50%; margin-bottom: 10px;">
+      <h4><a href="https://github.com/utkrshift" target="_blank" style="color: #4e54c8; text-decoration: none;">@utkrshift</a></h4>
+      <p><strong>UI/UX Designer</strong></p>
+      <p>Specializes in creating seamless and user-friendly interfaces.</p>
       <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-    </div>
-  </div>
-
-</div>
+    </td>
+    <td align="center" style="padding: 20px; border: 1px solid #ddd;">
+      <img src="https://via.placeholder.com/120" alt="Placeholder Developer Image" width="120" height="120" style="border-radius: 50%; margin-bottom: 10px;">
+      <h4><a href="https://github.com/developer4" target="_blank" style="color: #4e54c8; text-decoration: none;">@developer4</a></h4>
+      <p><strong>DevOps Engineer</strong></p>
+      <p>Expert in automation and cloud infrastructure.</p>
+      <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+    </td>
+  </tr>
+</table>
