@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <p align="center">
-  <img align="center" src="https://github.com/user-attachments/assets/01e5b94f-354d-4e9c-a894-af222d0b24cf">
+  <img align="center" src="https://github.com/user-attachments/assets/039e4a5c-a1ce-42f1-924c-4ea612b28ead">
 </p>
 <div align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/snigdha_os-based_on_archlinux-754ffe?style=for-the-badge&logo=archlinux&logoColor=92fe9d">
