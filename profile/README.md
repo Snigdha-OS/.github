@@ -13,7 +13,7 @@
 
 **Snigdha OS** 🚀 is a sleek, Arch-based Linux distro 🐧, designed for performance, simplicity, and security 🔒. Preloaded with essential penetration testing tools 🛠️, it's perfect for cybersecurity enthusiasts 🔍. Highly customizable for power users 💻, it offers a minimalistic experience with a focus on speed ⚡. Open-source and community-driven 🤝, Snigdha OS is set to release its *Arctic V* version on December 31, 2024 🎉.
 
-Explore more at: [Snigdha OS GitHub](https://github.com/Snigdha-OS) 🔗
+Explore more at: [Snigdha OS GitHub](https://github.com/orgs/Snigdha-OS/repositories) 🔗
 
 <p align="left" style="font-family: 'Droid Sans', sans-serif; font-style: italic; color: #555;">📝 <strong>Note:</strong> The upcoming Snigdha OS | Arctic V version is currently in testing mode and is expected to be officially released on 31st December 2024. Stay tuned! 🚀</p>
 
