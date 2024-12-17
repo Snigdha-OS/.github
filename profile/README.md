@@ -10,17 +10,12 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/sponsored_by-ixh_international_co.--%24962-%23754ffe?style=for-the-badge&logo=payoneer&labelColor=%2328282b&color=%23754ffe">
 </div>
 
-<h1 align="center" style="font-family: 'Droid Sans', sans-serif; color: #4e54c8;">🌟 Why Choose Snigdha OS? 🌟</h1>
-<div align="left" style="font-family: 'Droid Sans', sans-serif; max-width: 800px; margin: auto;">
-  <ul style="text-align: left; line-height: 1.8; font-size: 1.1rem;">
-    <li>🛠️ <strong>Tailored Toolset:</strong> Snigdha OS comes preloaded with essential penetration testing tools for network scanning, vulnerability assessment, and exploitation. More tools can be added during installation or afterward.</li>
-    <li>🔒 <strong>Security Focus:</strong> Built with security in mind, it includes features like SELinux or AppArmor, strict firewall rules, and minimal active services to reduce attack surfaces.</li>
-    <li>⚙️ <strong>Customization & Optimization:</strong> The OS allows deep customization for performance optimization, ensuring efficient use of system resources, which is vital for penetration testers.</li>
-    <li>🎓 <strong>Educational Tool:</strong> Snigdha OS is useful for cybersecurity learning, providing hands-on experience with various tools and techniques.</li>
-    <li>💻 <strong>Portability:</strong> It works across different hardware platforms, from physical machines to virtual machines and cloud instances, making it adaptable to various testing environments.</li>
-    <li>🌍 <strong>Open-source Collaboration:</strong> As an open-source project, Snigdha OS is community-driven, promoting transparency, collaboration, and continuous development.</li>
-  </ul>
-</div>
+<p align="center">
+**Snigdha OS** 🚀 is a sleek, Arch-based Linux distro 🐧, designed for performance, simplicity, and security 🔒. Preloaded with essential penetration testing tools 🛠️, it's perfect for cybersecurity enthusiasts 🔍. Highly customizable for power users 💻, it offers a minimalistic experience with a focus on speed ⚡. Open-source and community-driven 🤝, Snigdha OS is set to release its *Arctic V* version on December 31, 2024 🎉.
+
+Explore more at: [Snigdha OS GitHub](https://github.com/Snigdha-OS) 🔗
+
+</p>
 
 <p align="left" style="font-family: 'Droid Sans', sans-serif; font-style: italic; color: #555;">📝 <strong>Note:</strong> The upcoming Snigdha OS | Arctic V version is currently in testing mode and is expected to be officially released on 31st December 2024. Stay tuned! 🚀</p>
 
