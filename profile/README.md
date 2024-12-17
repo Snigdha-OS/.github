@@ -10,15 +10,17 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/sponsored_by-ixh_international_co.--%24962-%23754ffe?style=for-the-badge&logo=payoneer&labelColor=%2328282b&color=%23754ffe">
 </div>
 
-<p align="center">
-  Welcome to the <strong>Snigdha OS GitHub</strong> 🚀🐧 — the official home of <strong>Snigdha OS</strong> 🌟, a lightweight, highly customizable Linux distribution 🖥️ based on Arch Linux 🎯 and the Linux Zen Kernel ⚡. Built for performance 🔥, minimalism ✨, and user freedom 🛠️, Snigdha OS is perfect for developers 👩‍💻, cybersecurity enthusiasts 🛡️, and everyday users 🌍.  
-</p>
-<p align="center">
-  Explore a world of possibilities with Snigdha OS 🌐! From our blazing-fast core 💨 to our feature-rich <strong>Blackbox Framework</strong> 🕵️‍♂️, we provide powerful tools to simplify your workflow and enhance productivity 📈. Designed to adapt to your needs, Snigdha OS offers seamless customization 🎨, robust security 🔐, and cutting-edge performance optimization ⚙️.  
-</p>
-<p align="center">
-  Dive into our open-source projects 📂, contribute to the community 🤝, and stay updated with our latest innovations ✨. Whether you're coding your next big project 👩‍💻, testing security tools 🛡️, or just enjoying a sleek, stable OS 🖥️, Snigdha OS is here to empower you. Let's shape the future of Linux, together! ❤️‍🔥  
-</p>
+<div align="center">
+  <p align="justify">
+    Welcome to the <strong>Snigdha OS GitHub</strong> 🚀🐧 — the official home of <strong>Snigdha OS</strong> 🌟, a lightweight, highly customizable Linux distribution 🖥️ based on Arch Linux 🎯 and the Linux Zen Kernel ⚡. Built for performance 🔥, minimalism ✨, and user freedom 🛠️, Snigdha OS is perfect for developers 👩‍💻, cybersecurity enthusiasts 🛡️, and everyday users 🌍.
+  </p>
+  <p align="justify">
+    Explore a world of possibilities with Snigdha OS 🌐! From our blazing-fast core 💨 to our feature-rich <strong>Blackbox Framework</strong> 🕵️‍♂️, we provide powerful tools to simplify your workflow and enhance productivity 📈. Designed to adapt to your needs, Snigdha OS offers seamless customization 🎨, robust security 🔐, and cutting-edge performance optimization ⚙️.
+  </p>
+  <p align="justify">
+    Dive into our open-source projects 📂, contribute to the community 🤝, and stay updated with our latest innovations ✨. Whether you're coding your next big project 👩‍💻, testing security tools 🛡️, or just enjoying a sleek, stable OS 🖥️, Snigdha OS is here to empower you. Let's shape the future of Linux, together! ❤️‍🔥
+  </p>
+</div>
 
 <p align="left" style="font-family: 'Droid Sans', sans-serif; font-style: italic; color: #555;">📝 <strong>Note:</strong> The upcoming Snigdha OS | Arctic V version is currently in testing mode and is expected to be officially released on 31st December 2024. Stay tuned! 🚀</p>
 
