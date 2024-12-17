@@ -10,10 +10,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/sponsored_by-ixh_international_co.--%24962-%23754ffe?style=for-the-badge&logo=payoneer&labelColor=%2328282b&color=%23754ffe">
 </div>
 
-
-**Snigdha OS** 🚀 is a sleek, Arch-based Linux distro 🐧, designed for performance, simplicity, and security 🔒. Preloaded with essential penetration testing tools 🛠️, it's perfect for cybersecurity enthusiasts 🔍. Highly customizable for power users 💻, it offers a minimalistic experience with a focus on speed ⚡. Open-source and community-driven 🤝, Snigdha OS is set to release its *Arctic V* version on December 31, 2024 🎉.
-
-Explore more at: [Snigdha OS GitHub](https://github.com/orgs/Snigdha-OS/repositories) 🔗
+Welcome to the **Snigdha OS GitHub** 🚀🐧 — the official home of **Snigdha OS** 🌟, a lightweight, highly customizable Linux distribution 🖥️ based on Arch Linux 🎯 and the Linux Zen Kernel ⚡. Built for performance 🔥, minimalism ✨, and user freedom 🛠️, Snigdha OS is perfect for developers 👩‍💻, cybersecurity enthusiasts 🛡️, and everyday users 🌍. Dive into our open-source projects 📂, explore the **Blackbox Framework** 🕵️‍♂️, and join our community 🤝 to help shape the future of Linux! ❤️‍🔥
 
 <p align="left" style="font-family: 'Droid Sans', sans-serif; font-style: italic; color: #555;">📝 <strong>Note:</strong> The upcoming Snigdha OS | Arctic V version is currently in testing mode and is expected to be officially released on 31st December 2024. Stay tuned! 🚀</p>
 
