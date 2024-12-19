@@ -13,11 +13,9 @@
 <div align="center">
   <p align="justify">
     Welcome to the <strong>Snigdha OS GitHub</strong> 🚀🐧 — the official home of <strong>Snigdha OS</strong> 🌟, a lightweight, highly customizable Linux distribution 🖥️ based on Arch Linux 🎯 and the Linux Zen Kernel ⚡. Built for performance 🔥, minimalism ✨, and user freedom 🛠️, Snigdha OS is perfect for developers 👩‍💻, cybersecurity enthusiasts 🛡️, and everyday users 🌍.
-  </p>
-  <p align="justify">
+
     Explore a world of possibilities with Snigdha OS 🌐! From our blazing-fast core 💨 to our feature-rich <strong>Blackbox Framework</strong> 🕵️‍♂️, we provide powerful tools to simplify your workflow and enhance productivity 📈. Designed to adapt to your needs, Snigdha OS offers seamless customization 🎨, robust security 🔐, and cutting-edge performance optimization ⚙️.
-  </p>
-  <p align="justify">
+  
     Dive into our open-source projects 📂, contribute to the community 🤝, and stay updated with our latest innovations ✨. Whether you're coding your next big project 👩‍💻, testing security tools 🛡️, or just enjoying a sleek, stable OS 🖥️, Snigdha OS is here to empower you. Let's shape the future of Linux, together! ❤️‍🔥
   </p>
 </div>
