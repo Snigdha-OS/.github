@@ -36,6 +36,14 @@
       <img src="https://img.shields.io/badge/LinkedIn-%2328282b?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
     </td>
     <td align="center" style="padding: 20px; border: 0px transparent #ddd;">
+      <img src="https://avatars.githubusercontent.com/u/148610067?v=4" alt="Developer 1 Image" width="120" height="120" style="border-radius: 50%; margin-bottom: 10px;">
+      <h4><a href="https://github.com/d3v1l0n" target="_blank" style="color: #4e54c8; text-decoration: none;">@RiO</a></h4>
+      <strong>KDE Plasma Developer</strong>
+      <p>Snigdha OS Plasma Configurer.</p>
+      <img src="https://img.shields.io/badge/Twitter-%2328282b?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge">
+      <img src="https://img.shields.io/badge/LinkedIn-%2328282b?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+    </td>
+    <td align="center" style="padding: 20px; border: 0px transparent #ddd;">
       <img src="https://avatars.githubusercontent.com/u/112468319?v=4" alt="Developer 2 Image" width="120" height="120" style="border-radius: 50%; margin-bottom: 10px;">
       <h4><a href="https://github.com/alokified" target="_blank" style="color: #4e54c8; text-decoration: none;">@alokified</a></h4>
       <strong>Web Infrastructure</strong>
