@@ -6,7 +6,7 @@
 
 ## 🚀 What Makes Snigdha OS Unique?  
 
-- **🌀 Lightweight**: Optimized for speed and low resource usage.  
+- **🔀 Lightweight**: Optimized for speed and low resource usage.  
 - **🔒 Secure**: Built with modern security principles to keep your data safe.  
 - **🎨 Customizable**: Tailor your experience with a range of tools and themes.  
 - **🌍 Community-Driven**: Developed by passionate contributors from around the globe.  
@@ -25,6 +25,9 @@ Here are some key repositories to get you started:
 
 3. **[Snigdha OS Documentation](https://github.com/snigdha-os/documentation)**  
    Complete guides and references to help you get the most out of Snigdha OS.  
+
+4. **[Snigdha Blackbox](https://github.com/snigdha-os/blackbox)**  
+   A custom framework for managing penetration testing tools on Snigdha OS.  
 
 
 
@@ -45,6 +48,27 @@ Stay connected and contribute to the evolution of Snigdha OS:
 - **Official Website**: [Snigdha OS](https://snigdhaos.org)  
 - **Discussions**: [Community Forums](https://forum.snigdhaos.org)  
 - **Support Us**: [Open Collective](https://opencollective.com/snigdha-os)  
+- **Follow Us**: [Twitter](https://twitter.com/snigdhaos), [Mastodon](https://mastodon.snigdhaos.org), [Reddit](https://reddit.com/r/snigdhaos)  
+
+
+
+## 🌿 System Requirements  
+
+To ensure the best experience with Snigdha OS, here are the recommended system requirements:  
+
+- **Processor**: 64-bit dual-core CPU or better  
+- **Memory**: 2 GB RAM (4 GB recommended)  
+- **Storage**: 10 GB of free disk space (20 GB for advanced tools)  
+- **Graphics**: OpenGL 3.3 compatible GPU  
+
+
+
+## 🔄 Update and Support Cycle  
+
+Snigdha OS follows a rolling release model, ensuring you always have access to the latest features and updates without needing to reinstall. Our support cycle includes:  
+
+- **Regular Updates**: Weekly updates for security and performance improvements.  
+- **Long-Term Support (LTS)**: Stability-focused snapshots for enterprise users.  
 
 
 
@@ -55,3 +79,4 @@ Snigdha OS and its components are open-source, licensed under the [MIT License](
 
 
 Thank you for being a part of the Snigdha OS journey. Together, let’s build something amazing! 💻✨
+
