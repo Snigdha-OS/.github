@@ -28,15 +28,13 @@
 </p>
 
 <!-- Developer Section -->
-<h2 align="center" style="font-family: 'Droid Sans', sans-serif; color: #4e54c8;">💻 Meet the Developers 💻</h2>
+<h2 align="center" style="font-family: 'Droid Sans', sans-serif; color: #4e54c8;">💻 The Developers 💻</h2>
 
 <table align="center" style="font-family: 'Droid Sans', sans-serif; border-collapse: collapse; width: 80%; margin: auto; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
   <tr style="background-color: #f3f4f6;">
     <td align="center" style="padding: 20px; border: 0px transparent #ddd;">
       <img src="https://avatars.githubusercontent.com/u/148610067?v=4" alt="Developer 1 Image" width="120" height="120" style="border-radius: 50%; margin-bottom: 10px;">
       <h4><a href="https://github.com/eshanized" target="_blank" style="color: #4e54c8; text-decoration: none;">@eshanized</a></h4>
-      <strong>Lead Developer</strong>
-      <p>Passionate about open-source innovation and cybersecurity tools.</p>
       <div>
         <a href="https://twitter.com/eshanized" target="_blank">
           <img src="https://img.shields.io/badge/Twitter-%2328282b?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge">
@@ -49,8 +47,6 @@
     <td align="center" style="padding: 20px; border: 0px transparent #ddd;">
       <img src="https://avatars.githubusercontent.com/u/167227445?v=4" alt="Developer 2 Image" width="120" height="120" style="border-radius: 50%; margin-bottom: 10px;">
       <h4><a href="https://github.com/d3v1l0n" target="_blank" style="color: #4e54c8; text-decoration: none;">@RiO</a></h4>
-      <strong>KDE Plasma Developer</strong>
-      <p>Snigdha OS Plasma Configurer.</p>
       <div>
         <a href="https://twitter.com/RiO" target="_blank">
           <img src="https://img.shields.io/badge/Twitter-%2328282b?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge">
@@ -63,8 +59,6 @@
     <td align="center" style="padding: 20px; border: 0px transparent #ddd;">
       <img src="https://avatars.githubusercontent.com/u/112468319?v=4" alt="Developer 3 Image" width="120" height="120" style="border-radius: 50%; margin-bottom: 10px;">
       <h4><a href="https://github.com/alokified" target="_blank" style="color: #4e54c8; text-decoration: none;">@alokified</a></h4>
-      <strong>Web Infrastructure</strong>
-      <p>Focused on high-availability solutions and backend scalability.</p>
       <div>
         <a href="https://twitter.com/alokified" target="_blank">
           <img src="https://img.shields.io/badge/Twitter-%2328282b?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge">
@@ -79,8 +73,6 @@
     <td align="center" style="padding: 20px; border: 0px transparent #ddd;">
       <img src="https://avatars.githubusercontent.com/u/120082490?v=4" alt="Developer 4 Image" width="120" height="120" style="border-radius: 50%; margin-bottom: 10px;">
       <h4><a href="https://github.com/utkrshift" target="_blank" style="color: #4e54c8; text-decoration: none;">@utkrshift</a></h4>
-      <strong>DM/WM Developer</strong>
-      <p>Specializes in creating seamless and user-friendly interfaces.</p>
       <div>
         <a href="https://twitter.com/utkrshift" target="_blank">
           <img src="https://img.shields.io/badge/Twitter-%2328282b?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge">
@@ -93,8 +85,6 @@
     <td align="center" style="padding: 20px; border: 0px transparent #ddd;">
       <img src="https://avatars.githubusercontent.com/u/157954129?v=4" alt="Developer 5 Image" width="120" height="120" style="border-radius: 50%; margin-bottom: 10px;">
       <h4><a href="https://github.com/iconized" target="_blank" style="color: #4e54c8; text-decoration: none;">@iconized</a></h4>
-      <strong>Co-Maintainer</strong>
-      <p>Expert in automation and cloud infrastructure.</p>
       <div>
         <a href="https://twitter.com/iconized" target="_blank">
           <img src="https://img.shields.io/badge/Twitter-%2328282b?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge">
