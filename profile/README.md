@@ -1,14 +1,14 @@
 <!-- Header Section -->
 <p align="center">
-  <img align="center" src="https://github.com/user-attachments/assets/039e4a5c-a1ce-42f1-924c-4ea612b28ead" alt="Snigdha OS Logo">
+  <img align="center" src="https://github.com/user-attachments/assets/9ae5d8ff-c9c7-465b-924c-cfa7aec26024" alt="Snigdha OS Social">
 </p>
 <div align="center">
   <!-- Snigdha OS Badges -->
-  <img alt="Static Badge" src="https://img.shields.io/badge/snigdha_os-based_on_archlinux-754ffe?style=for-the-badge&logo=archlinux&logoColor=92fe9d">
-  <img alt="Static Badge" src="https://img.shields.io/badge/%40snigdhaos.org-on_bluesky-754ffe?style=for-the-badge&logo=bluesky&logoColor=92fe9d">
-  <img alt="Static Badge" src="https://img.shields.io/badge/license-mit-754ffe?style=for-the-badge&logo=book&logoColor=92fe9d">
-  <img alt="Static Badge" src="https://img.shields.io/badge/sponsored_by-tonmoy_infrastructure--%241000-%23754ffe?style=for-the-badge&logo=google%20pay&labelColor=%2328282b&color=%23754ffe">
-  <img alt="Static Badge" src="https://img.shields.io/badge/sponsored_by-ixh_international_co.--%24962-%23754ffe?style=for-the-badge&logo=payoneer&labelColor=%2328282b&color=%23754ffe">
+  <img alt="Static Badge" src="https://img.shields.io/badge/snigdha_os-based_on_archlinux-6495ed?style=for-the-badge&logo=archlinux&logoColor=92fe9d">
+  <img alt="Static Badge" src="https://img.shields.io/badge/%40snigdhaos.org-on_bluesky-6495ed?style=for-the-badge&logo=bluesky&logoColor=92fe9d">
+  <img alt="Static Badge" src="https://img.shields.io/badge/license-mit-6495ed?style=for-the-badge&logo=book&logoColor=92fe9d">
+  <img alt="Static Badge" src="https://img.shields.io/badge/sponsored_by-tonmoy_infrastructure--%241000-%236495ed?style=for-the-badge&logo=google%20pay&labelColor=%2328282b&color=%236495ed">
+  <img alt="Static Badge" src="https://img.shields.io/badge/sponsored_by-ixh_international_co.--%24962-%236495ed?style=for-the-badge&logo=payoneer&labelColor=%2328282b&color=%236495ed">
 </div>
 
 <div align="center">
