@@ -77,6 +77,20 @@
   </tr>
   <tr>
     <td align="center" style="padding: 20px; border: 0px transparent #ddd;">
+      <img src="https://avatars.githubusercontent.com/u/120082490?v=4" alt="Developer 4 Image" width="120" height="120" style="border-radius: 50%; margin-bottom: 10px;">
+      <h4><a href="https://github.com/utkrshift" target="_blank" style="color: #4e54c8; text-decoration: none;">@utkrshift</a></h4>
+      <strong>DM/WM Developer</strong>
+      <p>Specializes in creating seamless and user-friendly interfaces.</p>
+      <div>
+        <a href="https://twitter.com/utkrshift" target="_blank">
+          <img src="https://img.shields.io/badge/Twitter-%2328282b?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge">
+        </a>
+        <a href="https://www.linkedin.com/in/utkrshift/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-%2328282b?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+        </a>
+      </div>
+    </td>
+    <td align="center" style="padding: 20px; border: 0px transparent #ddd;">
       <img src="https://avatars.githubusercontent.com/u/157954129?v=4" alt="Developer 5 Image" width="120" height="120" style="border-radius: 50%; margin-bottom: 10px;">
       <h4><a href="https://github.com/iconized" target="_blank" style="color: #4e54c8; text-decoration: none;">@iconized</a></h4>
       <strong>Co-Maintainer</strong>
