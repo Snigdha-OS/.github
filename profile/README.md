@@ -19,7 +19,7 @@
 </div>
 
 
-<p align="left" style="font-family: 'Droid Sans', sans-serif; font-style: italic; color: #555; margin-top: 20px;">
+<p align="center" style="font-family: 'Droid Sans', sans-serif; font-style: italic; color: #555; margin-top: 20px;">
   📝 <strong>Note:</strong> The upcoming Snigdha OS | Arctic V version is currently in testing mode and is expected to be officially released on 31st December 2024. Stay tuned! 🚀
 </p>
 
