@@ -5,11 +5,11 @@
 
 <div align="center" style="margin-top: 20px;">
   <!-- Snigdha OS Badges -->
-  <img src="https://img.shields.io/badge/snigdha_os-based_on_archlinux-945ed?style=for-the-badge&logo=archlinux&logoColor=92fe9d" alt="Based on Arch Linux">
-  <img src="https://img.shields.io/badge/%40snigdhaos.org-on_bluesky-945ed?style=for-the-badge&logo=bluesky&logoColor=92fe9d" alt="Bluesky">
-  <img src="https://img.shields.io/badge/license-mit-945ed?style=for-the-badge&logo=book&logoColor=92fe9d" alt="License">
-  <img src="https://img.shields.io/badge/sponsored_by-tonmoy_infrastructure--%241000-%23945ed?style=for-the-badge&logo=google%20pay&labelColor=%2328282b&color=%23945ed" alt="Sponsored by Tonmoy Infrastructure">
-  <img src="https://img.shields.io/badge/sponsored_by-ixh_international_co.--%24962-%23945ed?style=for-the-badge&logo=payoneer&labelColor=%2328282b&color=%23945ed" alt="Sponsored by IXH International Co.">
+  <img src="https://img.shields.io/badge/snigdha_os-based_on_archlinux-6495ed?style=for-the-badge&logo=archlinux&logoColor=92fe9d" alt="Based on Arch Linux">
+  <img src="https://img.shields.io/badge/%40snigdhaos.org-on_bluesky-6495ed?style=for-the-badge&logo=bluesky&logoColor=92fe9d" alt="Bluesky">
+  <img src="https://img.shields.io/badge/license-mit-6495ed?style=for-the-badge&logo=book&logoColor=92fe9d" alt="License">
+  <img src="https://img.shields.io/badge/sponsored_by-tonmoy_infrastructure--%241000-%236495ed?style=for-the-badge&logo=google%20pay&labelColor=%2328282b&color=%236495ed" alt="Sponsored by Tonmoy Infrastructure">
+  <img src="https://img.shields.io/badge/sponsored_by-ixh_international_co.--%24962-%236495ed?style=for-the-badge&logo=payoneer&labelColor=%2328282b&color=%236495ed" alt="Sponsored by IXH International Co.">
 </div>
 
 <div align="center" style="margin-top: 20px;">
