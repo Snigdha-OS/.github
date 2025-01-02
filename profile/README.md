@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/039e4a5c-a1ce-42f1-924c-4ea612b28ead" alt="Snigdha OS Logo">
+  <img src="https://github.com/user-attachments/assets/b3d2fd0e-85b8-4668-8b46-24989c06cd33" alt="Snigdha OS Banner">
 </div>
 
 <div align="center" style="margin-top: 20px;">
