@@ -24,20 +24,15 @@
 </p>
 
 <!-- Developer Section -->
-<section style="font-family: 'Droid Sans', sans-serif; background: linear-gradient(135deg, #e9efff, #f9f9fb); padding: 50px 0;">
-  <h2 align="center" style="color: #4e54c8; font-size: 2.5rem; margin-bottom: 30px; text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
-    💻 Meet the Developers 💻
-  </h2>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    
-    <!-- Developer 1 -->
-    <div style="background: white; border-radius: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1); max-width: 300px; padding: 20px; text-align: center;">
-      <img src="https://avatars.githubusercontent.com/u/148610067?v=4" alt="Developer 1 Image" width="120" height="120" style="border-radius: 50%; margin-bottom: 15px;">
-      <h4 style="margin: 10px 0;">
-        <a href="https://github.com/eshanized" target="_blank" style="color: #4e54c8; text-decoration: none; font-size: 1.2rem;">@eshanized</a>
-      </h4>
-      <strong style="color: #333;">Lead Developer</strong>
-      <p style="color: #666; font-size: 0.95rem; margin: 10px 0;">Passionate about open-source innovation and cybersecurity tools.</p>
+<h2 align="center" style="font-family: 'Droid Sans', sans-serif; color: #4e54c8; margin-top: 40px;">💻 Meet the Developers 💻</h2>
+
+<table align="center" style="font-family: 'Droid Sans', sans-serif; border-collapse: collapse; width: 90%; margin: 20px auto; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+  <tr style="background-color: #f9f9fb;">
+    <td align="center" style="padding: 20px;">
+      <img src="https://avatars.githubusercontent.com/u/148610067?v=4" alt="Developer 1 Image" width="120" height="120" style="border-radius: 50%; margin-bottom: 10px;">
+      <h4><a href="https://github.com/eshanized" target="_blank" style="color: #4e54c8; text-decoration: none;">@eshanized</a></h4>
+      <strong>Lead Developer</strong>
+      <p>Passionate about open-source innovation and cybersecurity tools.</p>
       <div>
         <a href="https://twitter.com/eshanized" target="_blank">
           <img src="https://img.shields.io/badge/Twitter-%2328282b?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge">
@@ -46,16 +41,12 @@
           <img src="https://img.shields.io/badge/LinkedIn-%2328282b?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
         </a>
       </div>
-    </div>
-    
-    <!-- Developer 2 -->
-    <div style="background: white; border-radius: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1); max-width: 300px; padding: 20px; text-align: center;">
-      <img src="https://avatars.githubusercontent.com/u/167227445?v=4" alt="Developer 2 Image" width="120" height="120" style="border-radius: 50%; margin-bottom: 15px;">
-      <h4 style="margin: 10px 0;">
-        <a href="https://github.com/d3v1l0n" target="_blank" style="color: #4e54c8; text-decoration: none; font-size: 1.2rem;">@RiO</a>
-      </h4>
-      <strong style="color: #333;">KDE Plasma Developer</strong>
-      <p style="color: #666; font-size: 0.95rem; margin: 10px 0;">Snigdha OS Plasma Configurer.</p>
+    </td>
+    <td align="center" style="padding: 20px;">
+      <img src="https://avatars.githubusercontent.com/u/167227445?v=4" alt="Developer 2 Image" width="120" height="120" style="border-radius: 50%; margin-bottom: 10px;">
+      <h4><a href="https://github.com/d3v1l0n" target="_blank" style="color: #4e54c8; text-decoration: none;">@RiO</a></h4>
+      <strong>KDE Plasma Developer</strong>
+      <p>Snigdha OS Plasma Configurer.</p>
       <div>
         <a href="https://twitter.com/RiO" target="_blank">
           <img src="https://img.shields.io/badge/Twitter-%2328282b?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge">
@@ -64,16 +55,12 @@
           <img src="https://img.shields.io/badge/LinkedIn-%2328282b?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
         </a>
       </div>
-    </div>
-    
-    <!-- Developer 3 -->
-    <div style="background: white; border-radius: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1); max-width: 300px; padding: 20px; text-align: center;">
-      <img src="https://avatars.githubusercontent.com/u/112468319?v=4" alt="Developer 3 Image" width="120" height="120" style="border-radius: 50%; margin-bottom: 15px;">
-      <h4 style="margin: 10px 0;">
-        <a href="https://github.com/alokified" target="_blank" style="color: #4e54c8; text-decoration: none; font-size: 1.2rem;">@alokified</a>
-      </h4>
-      <strong style="color: #333;">Web Infrastructure</strong>
-      <p style="color: #666; font-size: 0.95rem; margin: 10px 0;">Focused on high-availability solutions and backend scalability.</p>
+    </td>
+    <td align="center" style="padding: 20px;">
+      <img src="https://avatars.githubusercontent.com/u/112468319?v=4" alt="Developer 3 Image" width="120" height="120" style="border-radius: 50%; margin-bottom: 10px;">
+      <h4><a href="https://github.com/alokified" target="_blank" style="color: #4e54c8; text-decoration: none;">@alokified</a></h4>
+      <strong>Web Infrastructure</strong>
+      <p>Focused on high-availability solutions and backend scalability.</p>
       <div>
         <a href="https://twitter.com/alokified" target="_blank">
           <img src="https://img.shields.io/badge/Twitter-%2328282b?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge">
@@ -82,16 +69,14 @@
           <img src="https://img.shields.io/badge/LinkedIn-%2328282b?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
         </a>
       </div>
-    </div>
-    
-    <!-- Developer 4 -->
-    <div style="background: white; border-radius: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1); max-width: 300px; padding: 20px; text-align: center;">
-      <img src="https://avatars.githubusercontent.com/u/157954129?v=4" alt="Developer 5 Image" width="120" height="120" style="border-radius: 50%; margin-bottom: 15px;">
-      <h4 style="margin: 10px 0;">
-        <a href="https://github.com/iconized" target="_blank" style="color: #4e54c8; text-decoration: none; font-size: 1.2rem;">@iconized</a>
-      </h4>
-      <strong style="color: #333;">Co-Maintainer</strong>
-      <p style="color: #666; font-size: 0.95rem; margin: 10px 0;">Expert in automation and cloud infrastructure.</p>
+    </td>
+  </tr>
+  <tr style="background-color: #f9f9fb;">
+    <td colspan="3" align="center" style="padding: 20px;">
+      <img src="https://avatars.githubusercontent.com/u/157954129?v=4" alt="Developer 5 Image" width="120" height="120" style="border-radius: 50%; margin-bottom: 10px;">
+      <h4><a href="https://github.com/iconized" target="_blank" style="color: #4e54c8; text-decoration: none;">@iconized</a></h4>
+      <strong>Co-Maintainer</strong>
+      <p>Expert in automation and cloud infrastructure.</p>
       <div>
         <a href="https://twitter.com/iconized" target="_blank">
           <img src="https://img.shields.io/badge/Twitter-%2328282b?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge">
@@ -100,7 +85,6 @@
           <img src="https://img.shields.io/badge/LinkedIn-%2328282b?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
         </a>
       </div>
-    </div>
-
-  </div>
-</section>
+    </td>
+  </tr>
+</table>
