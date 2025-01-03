@@ -28,62 +28,74 @@
 <!-- Developer Section -->
 <h2 align="center" style="font-family: 'Arial', sans-serif; color: #4e54c8; margin-top: 40px;">💻 Meet the Developers 💻</h2>
 
-<table align="center" style="font-family: 'Arial', sans-serif; border-collapse: collapse; width: 90%; margin: 20px auto; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); text-align: center;">
+<table align="center" style="font-family: 'Arial', sans-serif; border-collapse: collapse; width: 100%; margin: 20px auto; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); text-align: center; table-layout: fixed;">
   <tr style="background-color: #f9f9fb;">
-    <td style="padding: 20px;">
-      <img src="https://avatars.githubusercontent.com/u/148610067?v=4" alt="Developer 1 Image" width="120" height="120" style="border-radius: 50%; margin-bottom: 10px;">
-      <h4><a href="https://github.com/eshanized" style="color: #4e54c8; text-decoration: none;">@eshanized</a></h4>
-      <strong>Lead Developer</strong>
-      <p style="font-size: 14px;">Passionate about open-source innovation and cybersecurity tools.</p>
-      <div>
-        <a href="https://twitter.com/eshanized" target="_blank">
-          <img src="https://img.shields.io/badge/Twitter-%2328282b?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge">
-        </a>
-        <a href="https://www.linkedin.com/in/eshanized/" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-%2328282b?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-        </a>
+    <!-- Developer 1 -->
+    <td style="padding: 20px; width: 25%; vertical-align: top;">
+      <div style="display: flex; flex-direction: column; align-items: center;">
+        <img src="https://avatars.githubusercontent.com/u/148610067?v=4" alt="Developer 1 Image" width="120" height="120" style="border-radius: 50%; margin-bottom: 10px;">
+        <h4><a href="https://github.com/eshanized" style="color: #4e54c8; text-decoration: none;">@eshanized</a></h4>
+        <strong>Lead Developer</strong>
+        <p style="font-size: 14px;">Passionate about open-source innovation and cybersecurity tools.</p>
+        <div>
+          <a href="https://twitter.com/eshanized" target="_blank">
+            <img src="https://img.shields.io/badge/Twitter-%2328282b?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge">
+          </a>
+          <a href="https://www.linkedin.com/in/eshanized/" target="_blank">
+            <img src="https://img.shields.io/badge/LinkedIn-%2328282b?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+          </a>
+        </div>
       </div>
     </td>
-    <td style="padding: 20px;">
-      <img src="https://avatars.githubusercontent.com/u/167227445?v=4" alt="Developer 2 Image" width="120" height="120" style="border-radius: 50%; margin-bottom: 10px;">
-      <h4><a href="https://github.com/d3v1l0n" style="color: #4e54c8; text-decoration: none;">@RiO</a></h4>
-      <strong>KDE Plasma Developer</strong>
-      <p style="font-size: 14px;">Snigdha OS Plasma Configurer.</p>
-      <div>
-        <a href="https://twitter.com/RiO" target="_blank">
-          <img src="https://img.shields.io/badge/Twitter-%2328282b?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge">
-        </a>
-        <a href="https://www.linkedin.com/in/ri0dev/" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-%2328282b?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-        </a>
+    <!-- Developer 2 -->
+    <td style="padding: 20px; width: 25%; vertical-align: top;">
+      <div style="display: flex; flex-direction: column; align-items: center;">
+        <img src="https://avatars.githubusercontent.com/u/167227445?v=4" alt="Developer 2 Image" width="120" height="120" style="border-radius: 50%; margin-bottom: 10px;">
+        <h4><a href="https://github.com/d3v1l0n" style="color: #4e54c8; text-decoration: none;">@RiO</a></h4>
+        <strong>KDE Plasma Developer</strong>
+        <p style="font-size: 14px;">Snigdha OS Plasma Configurer.</p>
+        <div>
+          <a href="https://twitter.com/RiO" target="_blank">
+            <img src="https://img.shields.io/badge/Twitter-%2328282b?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge">
+          </a>
+          <a href="https://www.linkedin.com/in/ri0dev/" target="_blank">
+            <img src="https://img.shields.io/badge/LinkedIn-%2328282b?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+          </a>
+        </div>
       </div>
     </td>
-    <td style="padding: 20px;">
-      <img src="https://avatars.githubusercontent.com/u/112468319?v=4" alt="Developer 3 Image" width="120" height="120" style="border-radius: 50%; margin-bottom: 10px;">
-      <h4><a href="https://github.com/alokified" style="color: #4e54c8; text-decoration: none;">@alokified</a></h4>
-      <strong>Web Infrastructure</strong>
-      <p style="font-size: 14px;">Focused on high-availability solutions and backend scalability.</p>
-      <div>
-        <a href="https://twitter.com/alokified" target="_blank">
-          <img src="https://img.shields.io/badge/Twitter-%2328282b?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge">
-        </a>
-        <a href="https://www.linkedin.com/in/alokified/" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-%2328282b?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-        </a>
+    <!-- Developer 3 -->
+    <td style="padding: 20px; width: 25%; vertical-align: top;">
+      <div style="display: flex; flex-direction: column; align-items: center;">
+        <img src="https://avatars.githubusercontent.com/u/112468319?v=4" alt="Developer 3 Image" width="120" height="120" style="border-radius: 50%; margin-bottom: 10px;">
+        <h4><a href="https://github.com/alokified" style="color: #4e54c8; text-decoration: none;">@alokified</a></h4>
+        <strong>Web Infrastructure</strong>
+        <p style="font-size: 14px;">Focused on high-availability solutions and backend scalability.</p>
+        <div>
+          <a href="https://twitter.com/alokified" target="_blank">
+            <img src="https://img.shields.io/badge/Twitter-%2328282b?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge">
+          </a>
+          <a href="https://www.linkedin.com/in/alokified/" target="_blank">
+            <img src="https://img.shields.io/badge/LinkedIn-%2328282b?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+          </a>
+        </div>
       </div>
     </td>
-    <td style="padding: 20px;">
-      <img src="https://avatars.githubusercontent.com/u/157954129?v=4" alt="Developer 4 Image" width="120" height="120" style="border-radius: 50%; margin-bottom: 10px;">
-      <h4><a href="https://github.com/iconized" style="color: #4e54c8; text-decoration: none;">@iconized</a></h4>
-      <strong>Co-Maintainer</strong>
-      <p style="font-size: 14px;">Expert in automation and cloud infrastructure.</p>
-      <div>
-        <a href="https://twitter.com/iconized" target="_blank">
-          <img src="https://img.shields.io/badge/Twitter-%2328282b?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge">
-        </a>
-        <a href="https://www.linkedin.com/in/iconized/" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-%2328282b?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-        </a>
+    <!-- Developer 4 -->
+    <td style="padding: 20px; width: 25%; vertical-align: top;">
+      <div style="display: flex; flex-direction: column; align-items: center;">
+        <img src="https://avatars.githubusercontent.com/u/157954129?v=4" alt="Developer 4 Image" width="120" height="120" style="border-radius: 50%; margin-bottom: 10px;">
+        <h4><a href="https://github.com/iconized" style="color: #4e54c8; text-decoration: none;">@iconized</a></h4>
+        <strong>Co-Maintainer</strong>
+        <p style="font-size: 14px;">Expert in automation and cloud infrastructure.</p>
+        <div>
+          <a href="https://twitter.com/iconized" target="_blank">
+            <img src="https://img.shields.io/badge/Twitter-%2328282b?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge">
+          </a>
+          <a href="https://www.linkedin.com/in/iconized/" target="_blank">
+            <img src="https://img.shields.io/badge/LinkedIn-%2328282b?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+          </a>
+        </div>
       </div>
     </td>
   </tr>
