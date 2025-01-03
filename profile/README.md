@@ -72,10 +72,8 @@
         </a>
       </div>
     </td>
-  </tr>
-  <tr style="background-color: #f9f9fb;">
-    <td colspan="3" style="padding: 20px;">
-      <img src="https://avatars.githubusercontent.com/u/157954129?v=4" alt="Developer 5 Image" width="120" height="120" style="border-radius: 50%; margin-bottom: 10px;">
+    <td style="padding: 20px;">
+      <img src="https://avatars.githubusercontent.com/u/157954129?v=4" alt="Developer 4 Image" width="120" height="120" style="border-radius: 50%; margin-bottom: 10px;">
       <h4><a href="https://github.com/iconized" style="color: #4e54c8; text-decoration: none;">@iconized</a></h4>
       <strong>Co-Maintainer</strong>
       <p style="font-size: 14px;">Expert in automation and cloud infrastructure.</p>
