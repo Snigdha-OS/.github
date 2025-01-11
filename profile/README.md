@@ -37,6 +37,7 @@
         <h4 style="margin: 0;">
           <a href="https://github.com/eshanized" style="color: #6495ed; text-decoration: none;">@eshanized</a>
         </h4>
+        <p style="font-size: 14px; color: #555;">Location: Bangladesh 🇧🇩</p>
       </div>
     </td>
     <!-- Developer 2 -->
@@ -46,6 +47,7 @@
         <h4 style="margin: 0;">
           <a href="https://github.com/d3v1l0n" style="color: #6495ed; text-decoration: none;">@RiO</a>
         </h4>
+        <p style="font-size: 14px; color: #555;">Location: Bangladesh 🇧🇩</p>
       </div>
     </td>
     <!-- Developer 3 -->
@@ -55,6 +57,7 @@
         <h4 style="margin: 0;">
           <a href="https://github.com/alokified" style="color: #6495ed; text-decoration: none;">@alokified</a>
         </h4>
+        <p style="font-size: 14px; color: #555;">Location: India 🇮🇳</p>
       </div>
     </td>
     <!-- Developer 4 -->
@@ -64,6 +67,7 @@
         <h4 style="margin: 0;">
           <a href="https://github.com/iconized" style="color: #6495ed; text-decoration: none;">@iconized</a>
         </h4>
+        <p style="font-size: 14px; color: #555;">Location: India 🇮🇳</p>
       </div>
     </td>
     <!-- Developer 5 -->
@@ -73,6 +77,7 @@
         <h4 style="margin: 0;">
           <a href="https://github.com/XlebyllleK" style="color: #6495ed; text-decoration: none;">@XlebyllleK</a>
         </h4>
+        <p style="font-size: 14px; color: #555;">Location: Ukraine 🇺🇦</p>
       </div>
     </td>
   </tr>
