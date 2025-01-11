@@ -66,5 +66,14 @@
         </h4>
       </div>
     </td>
+    <!-- Developer 5 -->
+    <td style="padding: 20px; width: 25%; text-align: center; vertical-align: middle;">
+      <div style="display: flex; flex-direction: column; align-items: center;">
+        <img src="https://avatars.githubusercontent.com/u/96723939?v=4" alt="Developer 4 Image" width="120" height="120" style="border-radius: 50%; margin-bottom: 10px;">
+        <h4 style="margin: 0;">
+          <a href="https://github.com/XlebyllleK" style="color: #6495ed; text-decoration: none;">@XlebyllleK</a>
+        </h4>
+      </div>
+    </td>
   </tr>
 </table>
